@@ -1,3 +1,3 @@
 # Documentacion importante
 
-Debes comenzar en el archivo ElBegining.md
+[Manual Guía Especializado](01Manuales\02ManGuiaEspecializado.md)
