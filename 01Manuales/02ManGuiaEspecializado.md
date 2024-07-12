@@ -1,21 +1,22 @@
 #### Índice
-- [Introduccion](#introduccion)
-- [Principios de atencion al turista](#principios-de-atencion-al-turista)
-- [Funciones del guía de turista](#funciones-del-guía-de-turista)
-- [Mejores prácticas para el desarrollo de la actividad](#mejores-prácticas-para-el-desarrollo-de-la-actividad)
-- [Etica Profesional](#etica-profesional)
+- [1. Introduccion](#1-introduccion)
+- [2. Principios de atencion al turista](#2-principios-de-atencion-al-turista)
+- [3. Funciones del guía de turista](#3-funciones-del-guía-de-turista)
+- [4. Mejores prácticas para el desarrollo de la actividad](#4-mejores-prácticas-para-el-desarrollo-de-la-actividad)
+- [5. Etica Profesional](#5-etica-profesional)
 
-## Introduccion
+## 1. Introduccion
 <div style="text-align: justify">
 Este documento contine las mejores prácticas que debe seguir un Guía Especializado en Excursionismo, para así garantizar la mejor experiencia para nuestros apreciados turistas y usuarios.
 </div>
 
 
-## Principios de atencion al turista
+## 2. Principios de atencion al turista
 
 <div style="text-align: justify">
-Un guía de turistas presta un servicio primordial en las actividades economicas de un país. El guía es como la carta de presentación de un país entero. El guía debe contar con una serie de razgos y cualidades que le habilitaran para prestar un excelente servicio. Dichos razgos incluyen:
-</div>
+Un guía de turistas presta un servicio primordial en las actividades economicas de un país. El guía es como la carta de presentación de un país entero. El guía debe contar con una serie de razgos y cualidades que le habilitaran para prestar un excelente servicio.
+</div> 
+Dichos razgos incluyen:
 
 - Empatía
 - Amabilidad
@@ -43,7 +44,7 @@ Pilares básicos para la actividad de guía de turismo:
 - Idiomas
 - Actitud de servicio
 
-## Funciones del guía de turista
+## 3. Funciones del guía de turista
 1. Coordinar el tipo de servicio a ofrecer
 2. Coordinar punto de encuentro
 3. Minimizar los riesgos **Subjetivos**
@@ -52,7 +53,7 @@ Pilares básicos para la actividad de guía de turismo:
 6. Atender de forma preventiva posibles contratiempos
 7. En caso de presentarse un contratiempo, el guía ayuda en la eficaz toma de decisiones
 
-## Mejores prácticas para el desarrollo de la actividad
+## 4. Mejores prácticas para el desarrollo de la actividad
 - Contar con información básica o detalles de los turístas para identificar características particulares y garantizar un servicio personalizado
 - Llegar con anticipación al lugar o punto de encuentro
 - Verificar la limpieza de la unidad de transporte turístico
@@ -67,7 +68,7 @@ Pilares básicos para la actividad de guía de turismo:
 - Verificar que los turistas no hayan dejado objetos personales en la unidad de transporte turístico o equipo utilizado
 - Informar a la agencia operadora del tour el término del mismo
 
-## Etica Profesional
+## 5. Etica Profesional
 - No dar información a los turista que perjudique la imagen del país, de la ciudad y/o del tour operador a cargo de los servicios.
 - Dar a los turistas la información verídica, confirmada y actualizada d elos datos geográficos, históricos, económicos, sociales y políticos
 - Cumplir con las normas de seguridad establecidas en los lugares de visita
