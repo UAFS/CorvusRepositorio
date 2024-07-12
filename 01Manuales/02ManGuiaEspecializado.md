@@ -6,11 +6,17 @@
 - [Etica Profesional](#etica-profesional)
 
 ## Introduccion
+<div style="text-align: justify">
 Este documento contine las mejores prácticas que debe seguir un Guía Especializado en Excursionismo, para así garantizar la mejor experiencia para nuestros apreciados turistas y usuarios.
+</div>
+
 
 ## Principios de atencion al turista
 
+<div style="text-align: justify">
 Un guía de turistas presta un servicio primordial en las actividades economicas de un país. El guía es como la carta de presentación de un país entero. El guía debe contar con una serie de razgos y cualidades que le habilitaran para prestar un excelente servicio. Dichos razgos incluyen:
+</div>
+
 - Empatía
 - Amabilidad
 - Trato cordial
