@@ -1,0 +1,42 @@
+# Equipo Requerido en la practica de Excursionismo
+
+## Para el Guía
+- Mochila
+- Calzado apropiado
+- Ropa apropiada
+- Equipo de cocina
+- Botiquín
+- Sábana térmica
+- Impermeable
+- Brújula
+- Ceríllos
+- Lámpara
+- Bola de dormir
+- Colchón térmico
+- Tienda de Campaña
+- En caso de Rappel
+  - Arnés
+  - Anilla autoseguro con mosquetón de seguridad
+  - Ascensores mecánicos y sistema de descenso con mosquetones de seguridad
+  - Uso de Casco
+  - 3 tramos de cinta tubular de 2.54cm (1 pulgada) por 10 metros (33 pies) de largo.
+  - 2 Mosquetones de seguro, 1 Mosqueton de seguro tipo HMS por cada estación de rappel
+  - Elementos enmosquetables (placas)
+    - 2 piezas de 9.52mm (3/8 pulgada), dos tuercas y llave correspondiente
+    - 2 piezas de 1.27cm (1/2 pulgada), dos tuercas y llave correspondiente
+  - Cuerda de rappel y de seguridad acorde con la altura del descenso
+## Para el Turista/Usuario
+- Mochila
+- Calzado apropiado
+- Ropa apropiada
+- Impermeable
+- Navaja multiusos
+- Agua potable
+- Cerillos
+- Bolsa de dormir
+- Colchón térmico
+- Tienda de campaña
+- En caso de Rappel
+  - Arnés
+  - Anilla autoseguro con mosquetón de seguridad
+  - uso de casco
