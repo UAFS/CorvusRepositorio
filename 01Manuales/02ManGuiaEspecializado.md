@@ -4,6 +4,9 @@
 - [3. Funciones del guía de turista](#3-funciones-del-guía-de-turista)
 - [4. Mejores prácticas para el desarrollo de la actividad](#4-mejores-prácticas-para-el-desarrollo-de-la-actividad)
 - [5. Etica Profesional](#5-etica-profesional)
+- [6. Equipo](#6-equipo)
+- [7. Seguridad](#7-seguridad)
+- [8. Servicio](#8-prestacion-del-servicio)
 
 ## 1. Introduccion
 <div style="text-align: justify">
