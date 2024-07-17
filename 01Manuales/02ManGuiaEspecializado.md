@@ -6,7 +6,7 @@
 - [5. Etica Profesional](#5-etica-profesional)
 - [6. Equipo](#6-equipo)
 - [7. Seguridad](#7-seguridad)
-- [8. Prestación del Servicio](#8-prestacion-del-servicio)
+- [8. Prestación del Servicio](#8-prestación-del-servicio)
 
 ## 1. Introduccion
 <div style="text-align: justify">
