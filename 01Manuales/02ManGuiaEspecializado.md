@@ -6,7 +6,7 @@
 - [5. Etica Profesional](#5-etica-profesional)
 - [6. Equipo](#6-equipo)
 - [7. Seguridad](#7-seguridad)
-- [8. Prestacion del Servicio](#8-prestacion-del-servicio)
+- [8. Servicio](#8-servicio)
 
 ## 1. Introduccion
 <div style="text-align: justify">
@@ -123,7 +123,7 @@ Para brindar mayor seguridad al Turista/Usuario, El Guía debe cumplir con lo si
 - El Guía debe verificar la ruta para minimizar riesgos.
 - El guía debe consultar las condiciones atmosféricas antes y durante el recorrido.
 
-## 8. Prestacion del Servicio
+## 8. Servicio
 
 El Guía especializado cumplirá con las siguientes indicaciones:
 
