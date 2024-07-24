@@ -2,4 +2,4 @@
 
 {{page.path}}
 
-[Manual Guía Especializado]({% link CorvusRepositorio/01Manuales/02ManGuiaEspecializado.md %})
+[Manual Guía Especializado]({% link /01Manuales/02ManGuiaEspecializado.md %})
