@@ -130,7 +130,7 @@ El Guía especializado cumplirá con las siguientes indicaciones:
 1. Proporcionar una plática de seguridad introductoria pertinente a la actividad específica en la cual se incluya elementos de información sobre el uso del equipo y elementos de seguridad.
 2. El Guía debe especificar cual es el equipo que se proporciona.
 3. El Guía debe especificar cual es el equipo que debe llevar el turísta/Usuario
-4. El guía debe informar y aplicar el código de ética de la actividad. Ademas, considerando las polítocas de conservación del medio ambiente y atención al cliente.
+4. El guía debe informar y aplicar el código de ética de la actividad. Ademas, considerando las políticas de conservación del medio ambiente y atención al cliente.
 5. El Guía debe portar a la vista la credencial de reconocimiento emitida por secretaría de turismo.
 
 

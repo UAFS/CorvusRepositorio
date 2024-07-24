@@ -2,24 +2,9 @@
 
 ## Descripción
 
-Este es un lúgar que se carácteriza por brindar una sensación de pasibidad que generalmente solo se puede experimentar en lugares múy alejados de la civilización. Para llegar aquí, solo basta con salir de la ciudad un poco.
+Este es un lúgar que se carácteriza por brindar una sensación de pasibidad que generalmente solo se puede experimentar en lugares múy alejados de la civilización.
 
 En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreciar flora y fuana local. En este mismo lugar podemos apreciar petroglifos; vestigios arqueológicos, legados de las culturas que habitaron el noreste de México y lograron adaptarse e integrarse al ecosistema tan complejo que puede ser el semidesierto y oasis temporal.
-
-## Costos
-rubros|cantidad|Costo
---|--|--
-Gasolina|7 lts|$300
-Desgaste|200km|$200
-Seguro| |$100
-Snack||$100
-Bebida||$30
-Guía|8hrs|$2000
-Total||**$2730**
-
-### Bebida
-
-
 
 ## Código de Etica
 
