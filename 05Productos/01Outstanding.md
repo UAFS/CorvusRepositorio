@@ -18,4 +18,5 @@ Al contratar el servicio **Outstanding** se puede seleccionar cuarlquiera de nue
   - Ración de marcha
   - Regalo de acuerdo al número de contrataciones (pulsera, Buff, Savana de emergencia, navaja multiusos, Estuche para botiquin, etc.)
 - [ ] Fotos y Videos capturados durante la actividad
+- [ ] Elección de ruta de excursionismo. [ver rutas]({{site.baseurl}}/02Rutas/00IndiceRutas.html)
 
