@@ -1,3 +1,3 @@
 # Documentacion importante
 
-[Manual Guía Especializado]({{ site.baseurl }}{% 01Manuales\02ManGuiaEspecializado.md %})
+[Manual Guía Especializado]({% link 01Manuales\02ManGuiaEspecializado.md %})
