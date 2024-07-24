@@ -6,7 +6,7 @@
 ## Productos Turísticos
 
 ### Guías de Excursionismo:
-||Servicio|Descripcion|
+| |Servicio|Descripcion|
 |--|--|--|
 |1.| [Outstanding]({{site.baseurl}}/05Productos/01Outstanding.html)|Atención 100% personal
 |2.| High-octane crazy blood|Dos o más rutas en un solo día|
