@@ -6,8 +6,8 @@
 ## Productos Turísticos
 
 ### Guías de Excursionismo:
-| |Servicio|Descripcion|
-|--|--|--|
+| # |Servicio|Descripcion|
+|---|---|---|
 |1| Outstanding| Atención 100% personal |
 |2| High-octane crazy blood|Dos o más rutas en un solo día|
 |3| Force of Nature|Dos o más rutas en un solo día durnate 3 días consecutivos|
