@@ -1,6 +1,7 @@
+website: https://uafs.github.io/
+basewebsite: /CorvusRepositorio
 lsi: false
 safe: true
-source: CorvusRepositorio
 incremental: false
 highlighter: rouge
 gist:
