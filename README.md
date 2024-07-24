@@ -2,4 +2,4 @@
 
 {{site.baseurl}}
 
-[Manual Guía Especializado]({{% 02ManGuiaEspecializado.md | relative_url %}})
+[Manual Guía Especializado]({{site.baseurl}}/01Manuales/02ManGuiaEspecializado.html)
