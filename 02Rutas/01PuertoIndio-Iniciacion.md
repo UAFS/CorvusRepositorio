@@ -1,4 +1,4 @@
-# El paso de los ancestros
+# Sendero Arquelógico: Borrados
 
 ## Descripción
 
@@ -8,9 +8,12 @@ En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreci
 
 ## Código de Etica
 
+
+
 ## Mapa
 
 ## Bitacora
+
 |Hora|Actividad|Comentarios|
 |--|--|--|
 |07:00| Llegada a punto de inicio|Revision de equipo y platica de seguridad|
@@ -19,6 +22,8 @@ En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreci
 |09:00| Mitad del recorrido| Informar a turistas sobre el retorno al punto inicial, tomar snack y revisión de hidratación|
 |10:00|Revisión de hidratación|
 |11:00|Fin de caminata|Acudir a tomar alimentos, convivir y compartir experiencias|
+|13:00|Regresar a Monterrey||
+|15:30|Despedida||
 ## Reglamento de Operación
 
 ## Información importante para el turista
