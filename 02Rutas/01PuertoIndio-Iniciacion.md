@@ -24,6 +24,7 @@ En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreci
 |11:00|Fin de caminata|Acudir a tomar alimentos, convivir y compartir experiencias|
 |13:00|Regresar a Monterrey||
 |15:30|Despedida||
+
 ## Reglamento de Operación
 
 ## Información importante para el turista
