@@ -6,9 +6,25 @@ Este es un lúgar que se carácteriza por brindar una sensación de pasibidad qu
 
 En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreciar flora y fuana local. En este mismo lugar podemos apreciar petroglifos; vestigios arqueológicos, legados de las culturas que habitaron el noreste de México y lograron adaptarse e integrarse al ecosistema tan complejo que puede ser el semidesierto y oasis temporal.
 
-## Código de Etica
+## Ética al Aire Libre para Sitios Naturales
 
+- Planifique con anticipación y prepárese
+- Viaje y acampe sobre superficies durables
+- Deseche los residuos de forma adecuada
+- Deje lo que encuentre 
+- Minimice los impactos de las fogatas
+- Respete la vida silvestre
+- Sea considerado con los demás
 
+## Ética al Aire Libre Para Sitios Naturales de Fácil Acceso
+
+- Prepárese antes de salir de casa
+- Camine por los senderos marcados y acampe por la noche de manera adecuada
+- Tire su basura en contenedores designados o llévela de vuelta y recoja los excrementos
+- Déjelo tal como lo encontró
+- Tenga mucho cuidado con el fuego y observe siempre las medidas preventivas contra incendios
+- Permia que los animales salvajes se mantengan salvajes
+- Comparta los senderos y cuide a su mascota
 
 ## Mapa
 
