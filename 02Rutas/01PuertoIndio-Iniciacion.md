@@ -36,6 +36,46 @@ En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreci
 
 ## Reglamento de Operación
 
+### Equipo
+
+El guía especializado debe portar el siguiente material:
+
+1. Mochila
+2. Calzado apropiado
+3. Ropa apropiada
+4. Botiquín
+   1. Gasas
+   2. Benda
+5. Sábana Térmica
+6. Impermeable
+7. Nabaja multiusos
+8. Dos litros de agua potable para uso personal
+9. Tres litros de agua potable para compartir con turistas
+10. Brújula
+11. Cerillos
+12. Dos Lámparas
+13. Silbato
+
+El turísta debe portar el siguiente material:
+
+El guía especializado debe proveer el siguiente equipo al turista en caso de que el no lo haya procurado;
+
+1. Mochila
+2. Impermeable
+3. Navaja multisusos
+4. Cerillos
+5. Silbato
+
+El turista debe procurar el siguiente equipo;
+
+1. Calzado apropiado
+2. Ropa apropiada
+3. Al menos 2 litros de água potable
+
+> El guía especializado debe serciorarse de que todo el equipo se encuentre en óptimas condiciones.
+> El guía especializado informará durante la plática de seguridad impartida en el momento indicado por el itinerario,
+
+
 ## Información importante para el turista
 
 ## Información importante para el Guía
