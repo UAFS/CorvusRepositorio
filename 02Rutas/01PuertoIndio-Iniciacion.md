@@ -8,23 +8,14 @@ En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreci
 
 ## Ética al Aire Libre para Sitios Naturales
 
-- Planifique con anticipación y prepárese
-- Viaje y acampe sobre superficies durables
-- Deseche los residuos de forma adecuada
-- Deje lo que encuentre 
-- Minimice los impactos de las fogatas
-- Respete la vida silvestre
-- Sea considerado con los demás
-
-## Ética al Aire Libre Para Sitios Naturales de Fácil Acceso
-
-- Prepárese antes de salir de casa
-- Camine por los senderos marcados y acampe por la noche de manera adecuada
-- Tire su basura en contenedores designados o llévela de vuelta y recoja los excrementos
-- Déjelo tal como lo encontró
-- Tenga mucho cuidado con el fuego y observe siempre las medidas preventivas contra incendios
-- Permia que los animales salvajes se mantengan salvajes
-- Comparta los senderos y cuide a su mascota
+   - **Principio Uno** : Planificar y preparese
+   - **Principio Dos**: Desplazarse y acampar en superficies duraderas
+   - **Principio Tres**: Manejar desechos adecuadamente.
+   - **Principio Cuatro**: Deja en su lugar todo lo que encuentres
+   - **Principio Cinco**: Minimizar el impacto de las fogatas
+   - **Principio Séis**: Respetar a la vida silvestre
+   - **Principio Siete**: Tener consideración hacia los demas.
+   - **Principio Ocho**: Escuchar los sonidos de la naturaleza y el silencio de la naturaleza.
 
 ## Mapa
 
