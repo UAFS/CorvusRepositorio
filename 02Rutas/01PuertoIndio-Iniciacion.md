@@ -12,7 +12,7 @@ En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreci
 
 ## Mapa
 
-![Mapa de ruta al rededor de Loma Larga cerca de Ejido Delgado en Mina Nuevo León]({{site.baseurl}}/assets/img/PuertoIndioLomaLarga.webp)
+<img src="{{site.baseurl}}/assets/img/PuertoIndioLomaLarga.webp" width="80%">
 
 ## Itinerario
 
