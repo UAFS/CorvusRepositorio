@@ -75,11 +75,11 @@ El turísta debe portar el siguiente material:
 
 El guía especializado debe proveer el siguiente equipo al turista en caso de que el no lo haya procurado;
 
-1. Mochila
+1. Sábana terminca
 2. Impermeable
 3. Navaja multisusos
-4. Cerillos
-5. Silbato
+4. Silbato
+5. mochila
 
 El turista debe procurar el siguiente equipo;
 
@@ -122,26 +122,41 @@ En el momento indicado por el itinerario, el Guía especializado informará dura
 ##### Charla de Seguridad
 
 1. Introducción
-   - presentar al guía responsable y al resto del equipo
-   - Explicar la importancia de la charla de seguridad
-   - Insistir en la necesidad de una comunicación asertiva
-2. Características de la actividad
-   -  Presentar la actividad e informar de las condiciones del momento.
-   -  Informar y describir los posibles peligros
-   -  Explicar y repasar el correcto uso del equipo.
-   -  Explicar los códigos de comunicación
-   -  Demostrar las técnicas de seguridad: que hacer al escuchar sonidos extraños y alarmantes.
-   -  Explicar los procedimientos en caso de emergencia: que hacer si alguien se pierde.
-   -  Responsabilidades de los participantes.
-   -  Recordar la exigencia física prevista
-   -  Pedir a los participantes que manifiesten, si es preciso de forma individual y aparte, sus condicioes físicas o médicas que podrían afectar al normal desarrollo de la actividad.
-   -  Insistir en la responsabilidad de los participantes en actuar con diligencia y en prestar atención.
-   -  Solicitar que notifiquen a los guías cualquier problema que puedan tener con el equipo y que manifiesten consinceridad su sensasiones.
-   -  Recordar el respeto al medio ambiente y las normas de gestión de residuos.
-   -  Recordar que no se deben ingerir alcohol ni drogas, previamente ni durante la actividad.
-3. Resumen final
-   - Firmar si es necesario el formulario de autorización.
-   - Preguntar si hay alguna pregunta dicional.
+
+Hola buenos días, mi nombre es *Cinthya Reyes|Uriel Fernandez*. Yo soy su guía responsable de la actividad el día de hoy. Mi *esposo|esposa* y también Guía se llama *Uriel Fernandez|Cinthya Reyes*. Vamos a comenzar con una plática de seguridad, cualquier actividad debe comenzar con una charla de seguridad para que todos los participantes podamos conocer y entender la actividad que vamos a realizar, los posibles riesgos y el comportamiento que se espera de cada uno de nosotros. Esta charla es parte importante de la comunicación asertiva entre todos los participantes de esta excursión, lo cual es muy... muy... importante.
+   
+1. Características de la actividad
+
+Hoy vamos a realizar senderismoen un area con clima desertico, las temperaturas esperadas del día de hoy son _________.
+Algunos de los peligros a los que nos podríamos enfrentar son insolación, golpe de calor, caídas, raspones, encuentros con fauna silvestre y animales domesticados. 
+
+Nuestro principal equipo el día de hoy son nuestro calzado el cual debe estar bien ajustado y sentirse comodo al caminar. También es importante que nuestra ropa se ecuente colocada de forma adecuada y cómoda. debido a la exposición que tenemos a los rayos del sol debemos asegurarnos de cubrir nuestra piel lo mejor que podamos y en areas como el rosto, oídos y manos donde no podemos cubrirnos con ropa, usar bloqueador solar y re aplicar cada hora y media. Tampoco debemos usar demasiado bloqueado para evitar que escurra a nuestros ojos.
+
+En caso de que alguno de los guías necesite llamar la atención del grupo de manera urgente, usaremos el silvato con un pitido fuerte y corto; si escuchar esta señal todo el grupo debe detenerse y observar al guía del que procede el silvatazo.   
+
+En caso de que al andar escuchemos algún sonido extraño o alarmante como un bufido, cascabeleo, zumbido, etc. Nuestro actuar debe ser detenernos en nuestro lugar y avisar el guía usando su silvato o un grito y levantando ambas manos al aire.
+
+En caso de que alguien se separe del grupo es importante permanecer en el lugar donde se percató de estar separado del grupo, utilizar su silvato y realizar 3 silvatazos fuertes cada 30 segundos.
+
+La única responsabilidad que tienen ustedes como participantes es la de seguir todas las indicaciones que podamos dar cualquiera de los guías.
+
+Para poder este recorrido de forma normal, todos debemos sentirnos capaces de caminar de forma continua por 30 minutos sin perder el aliento.
+
+Si alguien tiene condiciones físicas como lesiones, operaciones, padecimientos, procedimientos recientes que puedan afectar el desarrollo normal de esta actividad pueden informarnoslo a los guías de forma individual.
+
+Nos encontramos en territorio de aventura es muy importante que todos actuemos con cuidado y prestemos atención al entorno y a nuestros compañeros.
+
+Ya casi terminamos, solo nos queda pedirles que nos informen si tienen cualquier problema o inconveniente con su ropa, calzado, mochila, o demás equipo.
+
+¿Como se sienten en este momento? Debemos ser sinseros con nosotros mismos y con nuestros compañeros
+   
+Excelente, entonces vamos a continuar con esta actividad. Ya que estamos disfrutando de la naturaleza, recuerden que es muy... muy... importante cuidar de ella. vamos a minimizar nuestro impacto durante esta actividad acatando los principios de no dejar rastro. Vamos a llevarnos toda la basura que podamos generar y vamos a tratar de recoger basura encontrada durante el trayecto para dejar este lugar mejor de lo que lo encontramos.
+
+Creo que no debo recordarles que no esta permitido ingerir alcohól ni otras drogas previo ni durante la actividad.
+   
+1. Resumen final
+   
+Vamos a firmar nuestra carta de responsabilidad compartida y si alguien tiene alguna pregunta porfavor este es el momento para externarla. 
 
 ##### Procedimiento de Actuación en caso de emergencia
 
