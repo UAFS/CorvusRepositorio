@@ -189,9 +189,9 @@ En caso de extravío o desaparición:
 
 Teléfonos  y direcciones de los centros de ayuda médica más cercanos:
 
-Nombre| Telefono |Dirección| Horarios|Servicios Medicos
+|Nombre| Telefono |Dirección| Horarios|Servicios Medicos|
 |--|--|--|--|--|
-SENTRO DE SALUD ICAMOLE|Atrás de un tinaco de Agua y Drenaje
+|SENTRO DE SALUD ICAMOLE||Atrás de un tinaco de Agua y Drenaje
 García, N.L., MX
 C.P. 66042|Lu-Vi las 24 HRS| Medicina General|
 IMSS Unidad Medica de Alta Especialidad No. 25|81 8371 4100|Av Fidel Velázquez s/n, Mitras Nte., 64180 Monterrey, N.L.| Lunes - Domingo 24 hrs|Medicina en General|
