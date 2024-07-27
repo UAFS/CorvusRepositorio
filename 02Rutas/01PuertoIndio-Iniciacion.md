@@ -123,7 +123,7 @@ En el momento indicado por el itinerario, el Guía especializado informará dura
 
 1. Introducción
 
-Hola buenos días, mi nombre es *Cinthya Reyes|Uriel Fernandez*. Yo soy su guía responsable de la actividad el día de hoy. Mi *esposo|esposa* y también Guía se llama *Uriel Fernandez|Cinthya Reyes*. Vamos a comenzar con una plática de seguridad, cualquier actividad debe comenzar con una charla de seguridad para que todos los participantes podamos conocer y entender la actividad que vamos a realizar, los posibles riesgos y el comportamiento que se espera de cada uno de nosotros. Esta charla es parte importante de la comunicación asertiva entre todos los participantes de esta excursión, lo cual es muy... muy... importante.
+Hola buenos días, mi nombre es *Cinthya Reyes/Uriel Fernandez*. Yo soy su guía responsable de la actividad el día de hoy. Mi *esposo/esposa* y también Guía se llama *Uriel Fernandez/Cinthya Reyes*. Vamos a comenzar con una plática de seguridad, cualquier actividad debe comenzar con una charla de seguridad para que todos los participantes podamos conocer y entender la actividad que vamos a realizar, los posibles riesgos y el comportamiento que se espera de cada uno de nosotros. Esta charla es parte importante de la comunicación asertiva entre todos los participantes de esta excursión, lo cual es muy... muy... importante.
    
 1. Características de la actividad
 
