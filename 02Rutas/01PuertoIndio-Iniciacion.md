@@ -136,6 +136,8 @@ En caso de que alguno de los guías necesite llamar la atención del grupo de ma
 
 En caso de que al andar escuchemos algún sonido extraño o alarmante como un bufido, cascabeleo, zumbido, etc. Nuestro actuar debe ser detenernos en nuestro lugar y avisar el guía usando su silvato o un grito y levantando ambas manos al aire.
 
+En caso de accidente debemos informar inmediatamente al guía más cercano. Si se trata de una lesión leve, atenderemos de forma adecuada nosotros mismos en equipo. En caso de una lesión grave, procederemosa apliar el protocolo de proteger, avisar y socorrer.
+
 En caso de que alguien se separe del grupo es importante permanecer en el lugar donde se percató de estar separado del grupo, utilizar su silvato y realizar 3 silvatazos fuertes cada 30 segundos.
 
 La única responsabilidad que tienen ustedes como participantes es la de seguir todas las indicaciones que podamos dar cualquiera de los guías.
