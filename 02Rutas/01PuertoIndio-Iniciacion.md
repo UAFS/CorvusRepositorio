@@ -198,3 +198,5 @@ Teléfonos  y direcciones de los centros de ayuda médica más cercanos:
 
 
 ## Políticas y procediminetos para Manejo de Basura
+
+La basura será separada en dos bolsas o contenedores, uno para basura general y otro para basura reciclable. La basura reciclable será trasladada hasta un centro de recolección y será separada acorde a su clasificación. La basura general se pondrá a disposición de los servicios de recolección municipales en el area metropolitana de Monterrey Nuevo León. Por ningún motivo se dejará basura en areas naturales o rurales.
