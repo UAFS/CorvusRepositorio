@@ -6,6 +6,18 @@
 
 El Sendero arquelogico Borrados, nos lleva por parajes únicos del Desierto Chihuahuense. Puede sonar extraño escuchar sobre el desierto chihuahuense cuando nos encontramos en el estado de Nuevo León, pero debemos saber que el desierto chihuahuense es una gran extension de territorio que abarca desde Nuevo Mexico y Texas en Estados Unidos y en México, hasta alcanzar porciones de los estados de Chihuahua, Coahuila, Durango, Guanajuato, Hidalgo, Nuevo León, Queretaro, San Luís Potosí, Tamaulipas y Zacatecas.
 
+|Información|Datos|
+|--|--|
+|Actividad|Senderismo de apreciación en un entorno desertico. Distancia moderada de traslado, a paso lento con paradas frecuetnes para apreciar y aprender.|
+|Lugar de la actividad| Paraje Loma Larga, cercano a Icamole, Nuevo León.|
+|Duración de la caminata|3 horas
+|Nivel de dificultad| Bajo|
+|Riesgos| Altas temperaturas |
+|Nivel técnico mínimo| Bajo|
+|Forma física requerida| Capaz de realizar actividad física moderada por al menos 30 minutos continuos|
+|Equipo mínimo necesario| Calzado apropiado en buenas condiciones, Ropa apropiada en buenas condiciones.
+|Normas Obligadas| Leave no trace.|
+
 <img src="{{site.baseurl}}/assets/img/DesiertoChihuahuense.jpg" width="80%">
 
 A simple vista, un desierto puede parecer desprovisto de vida. Al prestar un poco de atención, encontraremos todo tipo de flora y fauna. Desde pequeñas plantas que solo afloran cuando llega un poco de humadad, hasta fuertes mezquites y grandes yuccas que dominan el horizonte bajo. También encontraremos gran variedad de Cactaceas y Agaves. Si tienes suerte algún peyote llamará tu atención inesperadamente. Podemos econtrar también, incontables variedades de insectos, aves, mamiferos que hacen del desierto su hogar, todos juntos en armonía.
