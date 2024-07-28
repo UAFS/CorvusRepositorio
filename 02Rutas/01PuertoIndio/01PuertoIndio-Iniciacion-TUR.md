@@ -6,7 +6,7 @@
 
 El Sendero arquelogico Borrados, nos lleva por parajes únicos del Desierto Chihuahuense. Puede sonar extraño escuchar sobre el desierto chihuahuense cuando nos encontramos en el estado de Nuevo León, pero debemos saber que el desierto chihuahuense es una gran extension de territorio que abarca desde Nuevo Mexico y Texas en Estados Unidos y en México, hasta alcanzar porciones de los estados de Chihuahua, Coahuila, Durango, Guanajuato, Hidalgo, Nuevo León, Queretaro, San Luís Potosí, Tamaulipas y Zacatecas.
 
-<img src="{{site.baseurl}}/assets/img/DesiertoChihuahuense.jpeg" width="80%">
+<img src="{{site.baseurl}}/assets/img/DesiertoChihuahuense.jpg" width="80%">
 
 A simple vista, un desierto puede parecer desprovisto de vida. Al prestar un poco de atención, encontraremos todo tipo de flora y fauna. Desde pequeñas plantas que solo afloran cuando llega un poco de humadad, hasta fuertes mezquites y grandes yuccas que dominan el horizonte bajo. También encontraremos gran variedad de Cactaceas y Agaves. Si tienes suerte algún peyote llamará tu atención inesperadamente. Podemos econtrar también, incontables variedades de insectos, aves, mamiferos que hacen del desierto su hogar, todos juntos en armonía.
 
@@ -19,3 +19,15 @@ Durante este recorrido podremos apreciar vestigios arqueológicos de aquellas cu
 * ![Image 1]({{site.baseurl}}/assets/img/PuertoIndio01_IMG.jpg)
 * ![Image 2]({{site.baseurl}}/assets/img/PuertoIndio02_IMG.jpg)
 * ![Image 3]({{site.baseurl}}/assets/img/PuertoIndio03_IMG.jpg)
+* ![Image 4]({{site.baseurl}}/assets/img/PuertoIndio04_IMG.jpg)
+* ![Image 5]({{site.baseurl}}/assets/img/PuertoIndio05_IMG.jpg)
+* ![Image 6]({{site.baseurl}}/assets/img/PuertoIndio06_IMG.jpg)
+* ![Image 7]({{site.baseurl}}/assets/img/PuertoIndio07_IMG.jpg)
+* ![Image 8]({{site.baseurl}}/assets/img/PuertoIndio08_IMG.jpg)
+* ![Image 9]({{site.baseurl}}/assets/img/PuertoIndio09_IMG.jpg)
+* ![Image 10]({{site.baseurl}}/assets/img/PuertoIndio10_IMG.jpg)
+* ![Image 11]({{site.baseurl}}/assets/img/PuertoIndio11_IMG.jpg)
+* ![Image 12]({{site.baseurl}}/assets/img/PuertoIndio12_IMG.jpg)
+* ![Image 13]({{site.baseurl}}/assets/img/PuertoIndio13_IMG.jpg)
+* ![Image 14]({{site.baseurl}}/assets/img/PuertoIndio14_IMG.jpg)
+* ![Image 15]({{site.baseurl}}/assets/img/PuertoIndio15_IMG.jpg)
