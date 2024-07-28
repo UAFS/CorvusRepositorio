@@ -16,7 +16,7 @@ Aquellos antiguos habitantes no construyeron pirámides ni grandes ciudades con 
 
 Durante este recorrido podremos apreciar vestigios arqueológicos de aquellas culturas y grupos humanos ahora desaparecidos. Recordarlos y aprender de ellos puede llegar a sentirse como una responsabilidad para los que ahora habitamos estas tierras. Compartir el poco conocimiento que tenemos sobre aquellas personas es la única manera de preservar el legado de los habilidosos y sorprendentes antigüos habitantes del desierto más grande de America.
 
-* ![Image 15]({{site.baseurl}}/assets/img/PuertoIndio015_IMG.jpg)
+* ![Image 15]({{site.baseurl}}/assets/img/PuertoIndio15_IMG.jpg)
 * ![Image 2]({{site.baseurl}}/assets/img/PuertoIndio02_IMG.jpg)
 * ![Image 3]({{site.baseurl}}/assets/img/PuertoIndio03_IMG.jpg)
 * ![Image 4]({{site.baseurl}}/assets/img/PuertoIndio04_IMG.jpg)
