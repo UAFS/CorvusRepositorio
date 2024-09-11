@@ -30,7 +30,7 @@ El Sendero arquelogico Borrados, nos lleva por parajes únicos del Desierto Chih
 |Equipo mínimo necesario| Calzado apropiado en buenas condiciones, Ropa apropiada en buenas condiciones.
 |Normas Obligadas| Leave no trace.|
 
-<img src="{{site.baseurl}}/assets/img/DesiertoChihuahuense.jpg" width="80%">
+<img src="{{site.baseurl}}/images/DesiertoChihuahuense.jpg" width="80%">
 
 A simple vista, un desierto puede parecer desprovisto de vida. Al prestar un poco de atención, encontraremos todo tipo de flora y fauna. Desde pequeñas plantas que solo afloran cuando llega un poco de humadad, hasta fuertes mezquites y grandes yuccas que dominan el horizonte bajo. También encontraremos gran variedad de Cactaceas y Agaves. Si tienes suerte algún peyote llamará tu atención inesperadamente. Podemos econtrar también, incontables variedades de insectos, aves, mamiferos que hacen del desierto su hogar, todos juntos en armonía.
 
