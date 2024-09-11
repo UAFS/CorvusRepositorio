@@ -1,3 +1,15 @@
+---
+title: Sample 1 Topic
+keywords: sample
+summary: "This is just a sample topic..."
+sidebar: product3_sidebar
+permalink: p3_sample1.html
+simple_map: true
+map_name: usermap
+box_number: 1
+folder: product3
+---
+
 <script src="path/to/md-gallery.js"></script>
 <script>
     md_gallery();
