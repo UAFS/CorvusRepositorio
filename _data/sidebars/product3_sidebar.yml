@@ -1,12 +1,12 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Puerto del Indio
-  product: Puerto del Indio
+- title: Product3
+  product: Product3
   version: 1.0
   folders:
 
-  - title: Overview
+  - title:
     output: pdf
     type: frontmatter
     folderitems:
@@ -24,15 +24,15 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /puertodelindio_landing_page.html
+      url: /p3_landing_page.html
       output: web
 
-  - title: Simple Workflow
+  - title: Uri Workflow
     output: web, pdf
     folderitems:
 
-    - title: PuertoIndio-Iniciacion
-      url: /01PuertoIndio-Iniciacion.html
+    - title: Uri Sample 1
+      url: /p3_sample1.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
