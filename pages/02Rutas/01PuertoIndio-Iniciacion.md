@@ -19,7 +19,7 @@ En este lugar además de paz y tranquilidad, nos regala la posibilidad de apreci
 
 ## Mapa
 
-<img src="{{site.baseurl}}/assets/img/PuertoIndioLomaLarga.webp" width="80%">
+<img src="{{site.baseurl}}/images/PuertoIndioLomaLarga.webp" width="80%">
 
 ## Itinerario
 
