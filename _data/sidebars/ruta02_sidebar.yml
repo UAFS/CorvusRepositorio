@@ -22,7 +22,6 @@ entries:
   - title: Información de Ruta
     output: web, pdf
     folderitems:
-
     - title: Introducción
       url: /ruta02_landing_page.html
       output: web
