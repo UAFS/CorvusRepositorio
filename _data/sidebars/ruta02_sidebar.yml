@@ -34,9 +34,9 @@ entries:
     - title: Información Pública
       url: /ruta02_public_details.html
       output: web, pdf
-  
     - title: Información Técinca
       url: /ruta02_technical_details.html
+      output: web, pdf
 
 
 # Copyright 2021 Google LLC
