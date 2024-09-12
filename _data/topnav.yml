@@ -12,7 +12,7 @@
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Products
+    - title: Rutas Corvus
       folderitems:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
