@@ -19,18 +19,13 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Información Básica
+  - title: Información de Ruta
     output: web, pdf
     folderitems:
 
     - title: Introducción
       url: /ruta02_landing_page.html
       output: web
-
-  - title: Información de Ruta
-    output: web, pdf
-    folderitems:
-
     - title: Información Pública
       url: /ruta02_public_details.html
       output: web, pdf
