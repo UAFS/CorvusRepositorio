@@ -22,5 +22,7 @@ topnav_dropdowns:
           url: /ruta02_landing_page.html
         - title: Ruta 03 Nido de Los Aguiluchos
           url: /ruta03_landing_page.html
+        - title: Ruta 04 Copete de las Aguilas
+          url: /ruta04_landing_page.html
 
 # Copyright 2021 Google LLC
