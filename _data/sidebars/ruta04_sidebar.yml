@@ -1,0 +1,36 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Recorrido
+  product: Copete de las Aguilas
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Información de Ruta
+    output: web, pdf
+    folderitems:
+    - title: Introducción
+      url: /ruta04_landing_page.html
+      output: web
+    - title: Información Pública
+      url: /ruta04_public_details.html
+      output: web, pdf
+    - title: Información Técinca
+      url: /ruta04_technical_details.html
+      output: web, pdf
+
+
+# Copyright 2021 Google LLC
