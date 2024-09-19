@@ -20,7 +20,7 @@ folder: 02Rutas/04CopeteAguilas
 				<li class="positive"><span class="description">desnivel de subida</span><span class="value">996 m</span></li>
 				<li class="negative"><span class="description">desnivel de bajada</span><span class="value">996 m</span></li>
 				<li class="distance"><span class="description">distancia horizontal</span><span class="value">16,9 Km</span></li>
-				<li class="type"><span class="description">tipo de recorrido</span><span class="value">Ida y Vuelta</span></li>
+				<li class="type_idavuelta"><span class="description">tipo de recorrido</span><span class="value">Ida y Vuelta</span></li>
 			</ul>
 			<ul class="col-md-6 mideDataRight">
 				<li class="harshness"><span class="description">severidad del medio natural</span><span class="value">4</span></li>

@@ -16,7 +16,7 @@
 	background-repeat: no-repeat;
 	background-position: 10px center;
 }
-.incomplete .mideTitle{border-bottom: 1px solid #FF0000;}
+.mideTitle{border-bottom: 1px solid #FF0000;}
 .mideTitle h3{
 	font-size:18px;
 	margin:5px;
@@ -40,7 +40,7 @@
 	padding-left: 40px;
 	background-position: 4px center;
 }
-.incomplete.mideTable ul li{border: 1px solid #FF0000;}
+.mideTable ul li{border: 1px solid #FF0000;}
 
 .mideTable ul li span.value{
 	float: left;
@@ -72,23 +72,9 @@
 	padding: 10px;
 	border-top: 1px solid #000000;
 }
-.incomplete .mideFooter{border-top: 1px solid #FF0000;}
+.mideFooter{border-top: 1px solid #FF0000;}
 
 .resaltado{
 	background-color: rgba(192,190,0,.4);
 	padding: 1rem;
-}
-
-
-@media (min-width: 992px) {
-	.mideTable ul.mideDataLeft li{
-		text-align: left;
-		padding-right: 40px;
-		padding-left: 10px;
-		background-position: right 4px center;
-		margin-right: 0;
-	}
-	.mideTable ul.mideDataLeft li span.value{
-		float: right
-	}
 }
