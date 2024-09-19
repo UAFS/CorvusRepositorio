@@ -1,0 +1,144 @@
+
+div.container#main{
+	padding-top:20px;
+	padding-bottom:50px;
+	background-color: #FFFFFF;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#userMenu{
+	position: absolute;
+	top:0;right: 0;
+}
+#userDrop{margin:0;}
+
+.help-box{display: none; text-align: center; padding:15px;}
+.help-box p,.help-box li{text-align: left;}
+.btn-help{float:right;}
+
+.btn{margin:5px;}
+
+.special-text{
+  margin-left: -30px;
+  padding-left: 30px;
+  margin-right: -30px;
+  padding-right: 30px;
+  background-color: #DDD;
+}
+
+
+.mideTable{
+	border: 1px solid #000000;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+.mideTable.incomplete{border: 1px solid #FF0000;}
+.mideTitle{
+	padding: 10px;
+	border-bottom: 1px solid #000000;
+	min-height: 50px;
+	padding-left: 150px;
+	background: url(images/MIDE/MIDE.svg);
+	background-size: 128px 50px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
+.incomplete .mideTitle{border-bottom: 1px solid #FF0000;}
+.mideTitle h3{
+	font-size:18px;
+	margin:5px;
+	margin-left: 25% ;
+	text-align: right;
+
+}
+.mideTable ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+.mideTable ul li{
+	border: 1px solid #000000;
+	padding: 10px;
+	background-repeat: no-repeat;
+	background-size: 32px 32px;
+	margin:-1px;
+
+	text-align: right;
+	padding-left: 40px;
+	background-position: 4px center;
+}
+.incomplete.mideTable ul li{border: 1px solid #FF0000;}
+
+.mideTable ul li span.value{
+	float: left;
+	font-weight: bold;
+	margin:0px 10px;
+}
+.mideTable p{
+	margin:0;
+	font-size: 14px;
+}
+
+/*   */
+.time{background-image: url(images/MIDE/horario.svg);}
+.positive{background-image: url(images/MIDE/subida.svg);}
+.negative{background-image: url(images/MIDE/bajada.svg);}
+.distance{background-image: url(images/MIDE/distancia.svg);}
+.type_idavuelta{background-image: url(images/MIDE/tipo_recorrido_idavuelta.svg);}
+.harshness{background-image: url(images/MIDE/severidad.svg);}
+.orientation{background-image: url(images/MIDE/orientacion.svg);}
+.difficulty{background-image: url(images/MIDE/desplazamiento.svg);}
+.effort{background-image: url(images/MIDE/esfuerzo.svg);}
+.snow_probable{background-image: url(images/MIDE/nieve_posible.svg);}
+.snow_certain{background-image: url(images/MIDE/nieve_probable.svg);}
+.rappel{background-image: url(images/MIDE/rappel.svg);}
+.climb{background-image: url(images/MIDE/escalada.svg);}
+
+
+.mideFooter{
+	padding: 10px;
+	border-top: 1px solid #000000;
+}
+.incomplete .mideFooter{border-top: 1px solid #FF0000;}
+
+.resaltado{
+	background-color: rgba(192,190,0,.4);
+	padding: 1rem;
+}
+
+/* SOBREESCRIBIR TOASTR */
+
+#toast-container>div
+{
+	opacity: 1!important;
+}
+#toast-container.toast-bottom-full-width>div{
+	max-width: 90%!important;
+}
+
+.toast-info{
+	background-color: #c0be00!important;
+	color: black!important;
+}
+
+#toast-container .toast-message a{
+	text-decoration: underline;
+	font-weight: bold;
+	color:#004953;
+}
+
+@media (min-width: 992px) {
+	.mideTable ul.mideDataLeft li{
+		text-align: left;
+		padding-right: 40px;
+		padding-left: 10px;
+		background-position: right 4px center;
+		margin-right: 0;
+	}
+	.mideTable ul.mideDataLeft li span.value{
+		float: right
+	}
+}
