@@ -1,13 +1,13 @@
 ---
 title: Información Pública
-keywords: ruta03
+keywords: ruta04
 summary: 
-sidebar: ruta03_sidebar
-permalink: ruta03_public_details.html
+sidebar: ruta04_sidebar
+permalink: ruta04_public_details.html
 simple_map: false
 map_name: 
 box_number: 
-folder: 02Rutas/03NidoAguiluchos
+folder: 02Rutas/04CopeteAguilas
 ---
 
 <div class="mideTable col-md-8 col-md-offset-2 complete">
