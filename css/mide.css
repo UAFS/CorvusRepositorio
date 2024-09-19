@@ -11,7 +11,7 @@
 	border-bottom: 1px solid #000000;
 	min-height: 50px;
 	padding-left: 150px;
-	background: url(images/MIDE/MIDE.svg);
+	background: url(../images/MIDE/MIDE.svg);
 	background-size: 128px 50px;
 	background-repeat: no-repeat;
 	background-position: 10px center;
@@ -53,19 +53,19 @@
 }
 
 /*   */
-.time{background-image: url(images/MIDE/horario.svg);}
-.positive{background-image: url(images/MIDE/subida.svg);}
-.negative{background-image: url(images/MIDE/bajada.svg);}
-.distance{background-image: url(images/MIDE/distancia.svg);}
-.type_idavuelta{background-image: url(images/MIDE/tipo_recorrido_idavuelta.svg);}
-.harshness{background-image: url(images/MIDE/severidad.svg);}
-.orientation{background-image: url(images/MIDE/orientacion.svg);}
-.difficulty{background-image: url(images/MIDE/desplazamiento.svg);}
-.effort{background-image: url(images/MIDE/esfuerzo.svg);}
-.snow_probable{background-image: url(images/MIDE/nieve_posible.svg);}
-.snow_certain{background-image: url(images/MIDE/nieve_probable.svg);}
-.rappel{background-image: url(images/MIDE/rappel.svg);}
-.climb{background-image: url(images/MIDE/escalada.svg);}
+.time{background-image: url(../images/MIDE/horario.svg);}
+.positive{background-image: url(../images/MIDE/subida.svg);}
+.negative{background-image: url(../images/MIDE/bajada.svg);}
+.distance{background-image: url(../images/MIDE/distancia.svg);}
+.type_idavuelta{background-image: url(../images/MIDE/tipo_recorrido_idavuelta.svg);}
+.harshness{background-image: url(../images/MIDE/severidad.svg);}
+.orientation{background-image: url(../images/MIDE/orientacion.svg);}
+.difficulty{background-image: url(../images/MIDE/desplazamiento.svg);}
+.effort{background-image: url(../images/MIDE/esfuerzo.svg);}
+.snow_probable{background-image: url(../images/MIDE/nieve_posible.svg);}
+.snow_certain{background-image: url(../images/MIDE/nieve_probable.svg);}
+.rappel{background-image: url(../images/MIDE/rappel.svg);}
+.climb{background-image: url(../images/MIDE/escalada.svg);}
 
 
 .mideFooter{
