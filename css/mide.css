@@ -5,7 +5,7 @@
 	-moz-border-radius: 10px;
 	border-radius: 10px;
 }
-
+.mideTable.incomplete{border: 1px solid #FF0000;}
 .mideTitle{
 	padding: 10px;
 	border-bottom: 1px solid #000000;
@@ -16,9 +16,41 @@
 	background-repeat: no-repeat;
 	background-position: 10px center;
 }
-.mideTitle{border-bottom: 1px solid #FF0000;}
+.incomplete .mideTitle{border-bottom: 1px solid #FF0000;}
+.mideTitle h3{
+	font-size:18px;
+	margin:5px;
+	margin-left: 25% ;
+	text-align: right;
 
+}
+.mideTable ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+.mideTable ul li{
+	border: 1px solid #000000;
+	padding: 10px;
+	background-repeat: no-repeat;
+	background-size: 32px 32px;
+	margin:-1px;
 
+	text-align: right;
+	padding-left: 40px;
+	background-position: 4px center;
+}
+.incomplete.mideTable ul li{border: 1px solid #FF0000;}
+
+.mideTable ul li span.value{
+	float: left;
+	font-weight: bold;
+	margin:0px 10px;
+}
+.mideTable p{
+	margin:0;
+	font-size: 14px;
+}
 
 /*   */
 .time{background-image: url(../images/MIDE/horario.svg);}
@@ -40,4 +72,23 @@
 	padding: 10px;
 	border-top: 1px solid #000000;
 }
-.mideFooter{border-top: 1px solid #FF0000;}
+.incomplete .mideFooter{border-top: 1px solid #FF0000;}
+
+.resaltado{
+	background-color: rgba(192,190,0,.4);
+	padding: 1rem;
+}
+
+
+@media (min-width: 992px) {
+	.mideTable ul.mideDataLeft li{
+		text-align: left;
+		padding-right: 40px;
+		padding-left: 10px;
+		background-position: right 4px center;
+		margin-right: 0;
+	}
+	.mideTable ul.mideDataLeft li span.value{
+		float: right
+	}
+}
