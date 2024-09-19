@@ -26,7 +26,7 @@ folder: 02Rutas/04CopeteAguilas
 			</thead>
 			<tbody>
 				<tr>
-					<td markdown="span" style="background-image: url('/images/MIDE/horario.svg')"><span style="text-align:left">horario</span><span style="text-align:right">9h 15'</span></td>
+					<td markdown="span" style="background-position:right 4px center; background-image: url('/images/MIDE/horario.svg')"><span style="text-align:left">horario</span><span style="text-align:right">9h 15'</span></td>
 					<td markdown="span"></td>
 				</tr>
 				<tr>
