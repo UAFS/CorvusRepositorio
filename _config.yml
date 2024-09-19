@@ -5,7 +5,7 @@ topnav_title: Corvus
 # this appears on the top navigation bar next to the home button
 site_title: Corvus Adventure Services documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
-company_name: Copyright 2021 Google LLC
+company_name: Corvus Sociedad Anonima Simplificada
 # this appears in the footer
 github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
@@ -39,7 +39,7 @@ highlighter: rouge
 # library used for syntax highlighting
 
 # Site settings
-url: "https://uafs.github.io/CorvusRepositorio/" 
+url: "https://uafs.github.io/CorvusRepositorio" 
 
 markdown: kramdown
 kramdown:
