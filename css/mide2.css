@@ -15,22 +15,6 @@
 	background-repeat: no-repeat;
 	background-position: 10px center;
 }
-.mideTitle{border-bottom: 1px solid #FF0000;}
-.mideTitle h3{
-	font-size:18px;
-	margin:5px;
-	margin-left: 25% ;
-	text-align: right;
-
-}
-
-
-
-
-.mideTable p{
-	margin:0;
-	font-size: 14px;
-}
 
 /*   */
 .time{background-image: url(../images/MIDE/horario.svg);}

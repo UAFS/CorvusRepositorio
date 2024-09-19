@@ -5,7 +5,7 @@
 	-moz-border-radius: 10px;
 	border-radius: 10px;
 }
-.mideTable.incomplete{border: 1px solid #FF0000;}
+
 .mideTitle{
 	padding: 10px;
 	border-bottom: 1px solid #000000;
@@ -17,14 +17,6 @@
 	background-position: 10px center;
 }
 .mideTitle{border-bottom: 1px solid #FF0000;}
-.mideTitle h3{
-	font-size:18px;
-	margin:5px;
-	margin-left: 25% ;
-	text-align: right;
-
-}
-
 
 
 
@@ -49,8 +41,3 @@
 	border-top: 1px solid #000000;
 }
 .mideFooter{border-top: 1px solid #FF0000;}
-
-.resaltado{
-	background-color: rgba(192,190,0,.4);
-	padding: 1rem;
-}
