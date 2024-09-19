@@ -1,34 +1,4 @@
 
-div.container#main{
-	padding-top:20px;
-	padding-bottom:50px;
-	background-color: #FFFFFF;
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
-}
-
-#userMenu{
-	position: absolute;
-	top:0;right: 0;
-}
-#userDrop{margin:0;}
-
-.help-box{display: none; text-align: center; padding:15px;}
-.help-box p,.help-box li{text-align: left;}
-.btn-help{float:right;}
-
-.btn{margin:5px;}
-
-.special-text{
-  margin-left: -30px;
-  padding-left: 30px;
-  margin-right: -30px;
-  padding-right: 30px;
-  background-color: #DDD;
-}
-
-
 .mideTable{
 	border: 1px solid #000000;
 	-webkit-border-radius: 10px;
@@ -109,26 +79,6 @@ div.container#main{
 	padding: 1rem;
 }
 
-/* SOBREESCRIBIR TOASTR */
-
-#toast-container>div
-{
-	opacity: 1!important;
-}
-#toast-container.toast-bottom-full-width>div{
-	max-width: 90%!important;
-}
-
-.toast-info{
-	background-color: #c0be00!important;
-	color: black!important;
-}
-
-#toast-container .toast-message a{
-	text-decoration: underline;
-	font-weight: bold;
-	color:#004953;
-}
 
 @media (min-width: 992px) {
 	.mideTable ul.mideDataLeft li{
