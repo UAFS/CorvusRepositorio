@@ -24,33 +24,9 @@
 	text-align: right;
 
 }
-.mideTable ul{
-	list-style: none;
-	margin:0;
-	padding:0;
-}
-.mideTable ul li{
-	border: 1px solid #000000;
-	padding: 10px;
-	background-repeat: no-repeat;
-	background-size: 32px 32px;
-	margin:-1px;
 
-	text-align: right;
-	padding-left: 40px;
-	background-position: 4px center;
-}
-.mideTable ul li{border: 1px solid #FF0000;}
 
-.mideTable ul li span.value{
-	float: left;
-	font-weight: bold;
-	margin:0px 10px;
-}
-.mideTable p{
-	margin:0;
-	font-size: 14px;
-}
+
 
 /*   */
 .time{background-image: url(../images/MIDE/horario.svg);}
