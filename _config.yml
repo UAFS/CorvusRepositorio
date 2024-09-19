@@ -38,9 +38,6 @@ feedback_disable: true
 highlighter: rouge
 # library used for syntax highlighting
 
-# Site settings
-url: "https://uafs.github.io/CorvusRepositorio" 
-
 markdown: kramdown
 kramdown:
  input: GFM
