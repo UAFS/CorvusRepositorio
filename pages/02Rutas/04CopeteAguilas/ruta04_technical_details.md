@@ -20,7 +20,7 @@ folder: 02Rutas/04CopeteAguilas
 			</colgroup>
 			<thead>
 				<tr class="header">
-					<th style="background-image:url('/images/MIDE/MIDE.svg')"><img src="{{site.baseurl}}/images/MIDE/MIDE.svg" width="50px"></th>
+					<th style="background-image:url('/images/MIDE/MIDE.svg')"></th>
 					<th>Copete de las aguilas</th>
 				</tr>
 			</thead>
