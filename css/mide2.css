@@ -73,7 +73,7 @@
 }
 .incomplete .mideFooter{border-top: 1px solid #FF0000;}
 
-@media (min-width: 992px) {
+@media (min-width: 1000px) {
 	.mideTable ul.mideDataLeft li{
 		text-align: left;
 		padding-right: 40px;
