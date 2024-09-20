@@ -42,19 +42,19 @@ folder: 02Rutas/04CopeteAguilas
                 <span class="value">4</span>
             </li>
 			<li class="orientation">
-                <span class="description">orientacion en el itinerario</span>
+                <span class="description">orientacion</span>
                 <span class="value">2</span>
             </li>
 			<li class="difficulty">
-                <span class="description">dificultad en el desplazamiento</span>
+                <span class="description">dificultad desp.</span>
                 <span class="value">5</span>
             </li>
 			<li class="effort">
-                <span class="description">cantidad de esfuerzo necesario</span>
+                <span class="description">esfuerzo</span>
                 <span class="value">4</span>
             </li>
 			<li class="climb">
-                <span class="description">pasos de escalada</span>
+                <span class="description">escalada</span>
                 <span class="value">IV</span>
             </li>
 		</ul>
