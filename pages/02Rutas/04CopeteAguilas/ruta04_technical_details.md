@@ -10,9 +10,9 @@ box_number:
 folder: 02Rutas/04CopeteAguilas
 ---
 
-
+<h2><b>Método de Información de Excursiones</b></h2>
 <div class="mideTable col-md-8 col-md-offset-2 complete">
-	<div class="row mideTitle"><h3>Copete de las Aguilas</h3></div>
+	<div class="row mideTitle">Copete de las Aguilas</div>
 	<div class="row">
 		<ul class="col-md-6 mideDataLeft">
 			<li class="time">
